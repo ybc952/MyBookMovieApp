@@ -268,4 +268,4 @@ Confirmation.propTypes = {
   classes: PropTypes.object.isRequired,
 };
 
-export default withStyles(styles)(Confirmation);
+export default withStyles(styles)(Confirmation); 
